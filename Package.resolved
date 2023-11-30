@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "spm",
+        "repositoryURL": "https://github.com/atonamy/kmp-spm-example.git",
+        "state": {
+          "branch": null,
+          "revision": "963af9bd7bea693939690ad55036a30dfb3cfec5",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
