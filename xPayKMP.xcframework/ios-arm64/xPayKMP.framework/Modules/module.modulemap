@@ -1,8 +1,0 @@
-framework module xPayKMP {
-    umbrella header "xPayKMP.h"
-
-    export *
-    module * { export * }
-
-    use Foundation
-}
