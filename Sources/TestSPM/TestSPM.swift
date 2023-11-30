@@ -3,9 +3,14 @@ import spm
 #endif
 
 public struct TestSPM {
+    let test: String
+    
     public init() {
         if #available(iOS 13, *) {
-            print(Greeting().greet())
+            test = Greeting().greet()
+        } else {
+            test = ""
         }
+        print(test)
     }
 }
